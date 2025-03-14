@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <!--
 **nawazz3/nawazz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-### Hi there 👋, I'm Nawaz Ur Rahman Mohammed!  
-
 💡 **Master’s Student in Data Science @ University of Michigan, Dearborn (2024 – 2026)**  
 🚀 **Passionate about AI, ML, Big Data & Data Engineering**  
 📊 **Love working on real-world data-driven projects**  
