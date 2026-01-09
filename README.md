@@ -1,90 +1,88 @@
-## Hi there 👋
+# Mohammed Nawaz Ur Rahman
 
-<!--
-**nawazz3/nawazz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**nawazz3/nawazz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-💡 **Master’s Student in Data Science @ University of Michigan, Dearborn (2024 – 2026)**  
-🚀 **Passionate about AI, ML, Big Data & Data Engineering**  
-📊 **Love working on real-world data-driven projects**  
+📞 (248) 897-8735 | ✉️ nawazz@umich.edu  
+🔗 [LinkedIn](https://linkedin.com/in/nawaz3) | [GitHub](https://github.com/nawazz3) | [Medium](https://medium.com/@nawazz3)  
 
 ---
 
-### 🔭 I’m currently working on  
-- Building AI-powered recommendation systems 📡  
-- Enhancing deep learning models for facial recognition 🤖  
-- Exploring large-scale data analytics with Apache Spark & Hadoop  
-
-### 🌱 I’m currently learning  
-- Advanced Natural Language Processing (NLP)  
-- Scalable Machine Learning techniques  
-- Cloud-based AI deployments  
-
-### 👯 I’m looking to collaborate on  
-- Open-source AI & ML projects  
-- Data engineering & automation tasks  
-- Deep learning model optimization  
-
-### 🤔 I’m looking for help with  
-- Building scalable AI systems in cloud environments  
-- Optimizing big data workflows  
-
-### 💬 Ask me about  
-- AI, ML, Data Science, and Big Data  
-- Deep Learning frameworks like TensorFlow & PyTorch  
-- SQL, ETL, and data visualization  
+## Professional Summary
+Data Science graduate student at the University of Michigan–Dearborn with expertise in machine learning, big data analytics, and predictive modeling. Proven ability to improve model performance by **18–40%** through advanced preprocessing, feature engineering, and scalable data pipelines. Experienced in translating complex datasets into actionable insights to support data-driven decision-making.
 
 ---
 
-### 🛠️ Tech Stack  
+## Education
 
-- **Languages**: Python, C, C++, Java, SQL, R  
-- **ML & AI**: TensorFlow, Keras, PyTorch, Scikit-learn  
-- **Big Data & Cloud**: Apache Spark, Hadoop, Databricks  
-- **Databases**: MS SQL, MySQL, PostgreSQL, MongoDB  
-- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
-- **Dev Tools**: GitHub, OpenCV, ETL Pipelines  
+**University of Michigan–Dearborn**, Dearborn, MI  
+*Master of Science in Data Science* | GPA: 3.85  
+Expected May 2026  
+Relevant Coursework: Deep Learning, Big Data, Artificial Intelligence, Data Security, Database Systems, Pattern Recognition
 
----
-
-### 📌 Projects  
-
-🔹 **[Mood-Sensitive Music Recommendation System](https://www.irjet.net/archives/V10/i8/IRJET-V10I871.pdf)**  
-🔹 **Gesture-Based Volume Control**  
-🔹 **Google Merchandise Recommendation System**  
-
-📜 *Explore my repositories for more!*
+**VNR Vignana Jyothi Institute of Engineering & Technology**, Hyderabad, India  
+*Bachelor of Technology in Data Science* | GPA: 8.68  
+Dec 2020 – May 2024
 
 ---
 
-### 🏆 Certifications  
+## Technical Skills
 
-✅ **Deep Learning (NPTEL) – Silver Medal**  
-✅ **Natural Language Processing (NPTEL) – Silver Medal**  
-
----
-
-### 📫 How to reach me:  
-
-📧 **Email**: [nawazz@umich.edu](mailto:nawazz@umich.edu)  
-🔗 **LinkedIn**: [linkedin.com/in/nawaz3](https://www.linkedin.com/in/nawaz3)  
-💻 **GitHub**: [github.com/nawazz3](https://github.com/nawazz3)  
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, R, Java, C++  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras, Regression, Classification, Clustering  
+- **Data Analytics & Tools:** Power BI, Excel (Pivot Tables, VLOOKUP, Macros), Streamlit, Flask, Git  
+- **Big Data & Cloud:** PySpark, Hadoop, Databricks, Oracle Cloud Infrastructure (OCI)  
+- **Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB  
+- **Core Competencies:** Data Preprocessing, Feature Engineering, Statistical Modeling, Hypothesis Testing, ETL Pipelines, Predictive Analytics, Data Visualization  
 
 ---
 
-⚡ **Fun fact**: I love experimenting with AI models and exploring new datasets!  
+## Experience
 
-🚀 *Let's connect and build something amazing together!*  
+**Machine Learning Intern**  
+*VNR Vignana Jyothi Institute of Engineering & Technology* | Mar 2023 – Jan 2024  
+
+- Designed and implemented a CNN-based image classification model for brinjal leaf disease detection, improving accuracy from 74% to 88% through preprocessing and hyperparameter tuning.  
+- Expanded dataset from 400 to 4,000+ images using augmentation techniques, reducing overfitting by 35% and achieving an F1-score of 0.87.  
+- Analyzed and visualized model performance metrics and presented findings to the research committee, contributing to ongoing research in agricultural AI systems.  
+
+---
+
+## Projects
+
+**AI Research Assistant (Multi-Agent System)**  
+*Tools: Python, CrewAI, Streamlit, Groq LLMs, Serper API | Sep 2025*  
+- Developed an AI-powered research assistant using a multi-agent architecture to automate literature search, summarization, and report generation.  
+- Integrated Groq LLMs for high-speed inference and Serper API for citation retrieval, reducing query latency by 42% and improving factual accuracy by 35%.  
+- Built an interactive Streamlit dashboard for tracking queries and results, increasing user engagement by 60%.
+
+**Google Merchandise Recommendation System**  
+*Tools: PySpark, Hadoop, ALS, SQL | Nov 2024*  
+- Built a collaborative filtering recommendation engine using ALS on 1M+ user–product interactions.  
+- Performed data preprocessing, feature engineering, and Bayesian hyperparameter tuning, reducing RMSE by 18% and improving precision by 20%.  
+- Deployed in a distributed PySpark environment to ensure scalability for large retail datasets.  
+
+**Mood-Sensitive Music Recommendation System**  
+*Tools: Python, TensorFlow, Keras, OpenCV | May 2023*  
+- Developed a real-time facial emotion recognition system to personalize music playback, achieving over 85% accuracy.  
+- Processed 30+ FPS video streams using OpenCV to extract facial landmarks and classify emotions via CNN.  
+- Optimized network architecture and regularization techniques, improving precision from 76% to 89%.  
+
+**Gesture-Based Volume Control**  
+*Tools: Python, Mediapipe, OpenCV | Sep 2023*  
+- Created a real-time gesture recognition system with 92% accuracy and latency under 50ms.  
+- Optimized frame sampling and image processing pipelines, reducing computational overhead by 35% and enabling seamless touch-free control.  
+
+---
+
+## Publications
+
+- **Mood-Sensitive Music Recommendation System**, *International Research Journal of Engineering and Technology (IRJET)*, Volume 10, Issue 08, August 2023.
+- **[Mood-Sensitive Music Recommendation System](https://www.irjet.net/archives/V10/i8/IRJET-V10I871.pdf)**  
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure (OCI) Certified  
+- Deep Learning – IIT Kanpur (NPTEL)  
+- Natural Language Processing – IIT Kanpur (NPTEL)  
+- Advanced SQL – University of Colorado Boulder  
+
