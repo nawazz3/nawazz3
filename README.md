@@ -32,18 +32,7 @@ Dec 2020 – May 2024
 - **Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB  
 - **Core Competencies:** Data Preprocessing, Feature Engineering, Statistical Modeling, Hypothesis Testing, ETL Pipelines, Predictive Analytics, Data Visualization  
 
----
 
-## Experience
-
-**Machine Learning Intern**  
-*VNR Vignana Jyothi Institute of Engineering & Technology* | Mar 2023 – Jan 2024  
-
-- Designed and implemented a CNN-based image classification model for brinjal leaf disease detection, improving accuracy from 74% to 88% through preprocessing and hyperparameter tuning.  
-- Expanded dataset from 400 to 4,000+ images using augmentation techniques, reducing overfitting by 35% and achieving an F1-score of 0.87.  
-- Analyzed and visualized model performance metrics and presented findings to the research committee, contributing to ongoing research in agricultural AI systems.  
-
----
 
 ## Projects
 
